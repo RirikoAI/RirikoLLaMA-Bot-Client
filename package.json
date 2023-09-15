@@ -1,6 +1,6 @@
 {
   "name": "ririkollama-bot-client",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "RirikoLLaMA Client for RirikoAI. Host your own \"ChatGPT\" at home! (With OpenLLaMA, 100% FOC)",
   "main": "index.js",
   "scripts": {
